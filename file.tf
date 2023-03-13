@@ -6,3 +6,5 @@ resource "aws_redshift_cluster" "positirrrrrrve1" {
   node_type          = "dc1.large"
   cluster_type       = "single-node"
 }
+
+

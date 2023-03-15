@@ -8,3 +8,5 @@ resource "aws_redshift_cluster" "positirrrrrrve1" {
 }
 
 
+
+
